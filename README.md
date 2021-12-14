@@ -1,3 +1,3 @@
 # fontawsome
 
-place all css files in css or scss folder and in the main route place webfonts folder
+<link rel="stylesheet" href="https://parswebdesigners.github.io/icon/css/all.min.css"/>
