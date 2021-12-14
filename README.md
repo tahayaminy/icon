@@ -1,3 +1,5 @@
 # fontawsome
 use this link for href link tag
-[https://parswebdesigners.github.io/icon/css/all.min.css](https://parswebdesigners.github.io/icon/css/all.min.css)
+```
+<link rel="stylesheet" href="https://parswebdesigners.github.io/icon/css/all.min.css"/>
+```
